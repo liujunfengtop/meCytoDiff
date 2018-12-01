@@ -1,1 +1,2 @@
 # meCytoDiff:a tool for differential analysis of RNA-BisSeq data at alternative isoform level
+meCytoDiff runs from the command line at linux or unix platform. Meanwhile, gcc (C-compatible compiler) and a kind of mapping tool for bisulfited RNA-Seq (RNA-BisSeq) data are needed to be installed on your computer. meCytoDiff can be downloaded from the meCytoDiff homepage. The details see the document meCytoDiff_User_Guide.pdf.
